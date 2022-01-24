@@ -1,4 +1,9 @@
-.badge{
+
+/*------------------ badge-section-start --------------------------*/
+
+.badge{   
     position: relative;
     bottom: 30px;
 }
+
+/*------------------ badge-section-end --------------------------*/
